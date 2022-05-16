@@ -181,3 +181,8 @@ function printMyName() {
 
 console.log('start')
 setTimeout(printMyName, 10000)
+
+const myCityAta = {
+    city: 'Ata',
+    country:'KZ'
+}
